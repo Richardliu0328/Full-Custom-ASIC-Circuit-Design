@@ -1,4 +1,5 @@
-Full-Custom VLSI Design of Multiplier-Divider System with Arbiter (Cadence Virtuoso)
+Full-Custom VLSI Design of Multiplier-Divider System with Arbiter (Cadence Virtuoso):
+
 Designed and implemented a high-performance 4-bit arithmetic system comprising a multiplier, divider, and arbiter using full-custom VLSI techniques in Cadence Virtuoso. The goal was to optimize for area, power, and delay (PAD), while demonstrating complete schematic-to-layout design flow, functional correctness, and post-layout verification.
 
 Phase 1: Developed core digital building blocks including 1-bit Full/Half Adders, Subtractors, XOR/AND/NAND/INV gates, and designed a 4-bit Multiplier and Divider. Performed functional verification and delay measurements using testbenches.
